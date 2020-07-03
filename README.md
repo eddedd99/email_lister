@@ -2,11 +2,13 @@
 Take a text file with emails and generate another txt with the unique domains or usernames
 
 # Description
-         Program: Email lister txt.vbs 
+         Program: Email lister
+        Language: visual basic script
+            Main: email_lister.vbs
          Purpose: Take a text file with emails and generate another txt with the unique domains or usernames
            input: txt file with emails
-          output: txt file with email domains unique ordered
-         Created: 19-Junio-2020
+          output: txt file with email with domains/usernames unique ordered
+         Created: 2020-Jun-19
          version: 1.0
           author: Edd (edcruces99@gmail.com)
          example: cscript.exe email_lister.vbs input.txt output.txt
@@ -24,7 +26,7 @@ Take a text file with emails and generate another txt with the unique domains or
                                 edd
                                 john
                                 sophie
-------------------------------------------------------------------------------------------------------
+
 ##     Updated: 2020-Jun-24
        -Comments were included for understanding
 
